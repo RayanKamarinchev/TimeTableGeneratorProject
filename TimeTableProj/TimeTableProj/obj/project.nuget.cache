@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNydV3SxsKdkXvmwsPmJIB3oobTMZkJoUTQYbei92flNJygme8MkvpKzGcPTJkOiA81J5N3xTm9HX+63tTXTAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raian\\Source\\Repos\\TimeTableGeneratorProject\\TimeTableProj\\TimeTableProj\\TimeTableProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

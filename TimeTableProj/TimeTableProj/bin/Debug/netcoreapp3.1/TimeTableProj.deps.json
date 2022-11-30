@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TimeTableProj/1.0.0": {
+        "dependencies": {
+          "Algorithm": "1.0.0"
+        },
+        "runtime": {
+          "TimeTableProj.dll": {}
+        }
+      },
+      "Algorithm/1.0.0": {
+        "runtime": {
+          "Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeTableProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

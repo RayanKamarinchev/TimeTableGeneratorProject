@@ -1,0 +1,10 @@
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\bin\Release\netcoreapp3.1\Algorithm.deps.json
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\bin\Release\netcoreapp3.1\Algorithm.dll
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\bin\Release\netcoreapp3.1\Algorithm.pdb
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.csproj.AssemblyReference.cache
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.dll
+C:\Users\raian\source\repos\TimeTableProj\Algorithm\obj\Release\netcoreapp3.1\Algorithm.pdb

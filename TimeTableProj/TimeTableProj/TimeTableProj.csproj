@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>False</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="app.manifest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Saves\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Algorithm\Algorithm.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties saves_4teachers_1json__JsonSchema="jso" /></VisualStudio></ProjectExtensions>
+
+</Project>
